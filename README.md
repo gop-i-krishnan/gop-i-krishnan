@@ -1,8 +1,21 @@
-### 👋 Hi, I’m @gop-i-krishnan
+Hi 👋 I’m Gopi
 
-- 👀 I’m interested in software development, AI/ML, and open-source projects  
-- 🌱 I’m currently learning full-stack web development and deep learning  
-- 💞️ I’m looking to collaborate on Python, React, or AI-related projects  
-- 📫 How to reach me: gopigopikrishnand@gmail.com or connect with me on [LinkedIn][https://www.linkedin.com/in/me/]  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I can solve a Rubik’s Cube in under a minute!
+Electronics & Communication Engineering student focused on embedded systems and hardware–software co-design.
+
+🔧 Current Focus
+• Embedded C and system-level programming  
+• FPGA + ARM SoC development (PYNQ-Z2 platform)  
+• Hardware–software integration and debugging  
+• Building real-world attendance and identity systems  
+
+📌 Featured Projects
+• Smart Biometric Attendance System (ESP32 + Cloud Logging)  
+• CNN-based Face Attendance System on PYNQ-Z2  
+• Embedded system architecture experiments  
+
+🧠 Engineering Interests
+Protecting reliability in embedded systems, optimizing hardware–software partitioning, and designing systems that work under real-world constraints.
+
+📫 Contact
+gopigopikrishnand@gmail.com
+LinkedIn: https://www.linkedin.com/in/gop-i-k
