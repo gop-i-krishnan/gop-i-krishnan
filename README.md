@@ -1,21 +1,21 @@
 Hi 👋 I’m Gopi
 
-Electronics & Communication Engineering student focused on embedded systems and hardware–software co-design.
+Electronics & Communication Engineering student focused on building real-world systems that combine software, embedded systems, and intelligent automation.
 
 🔧 Current Focus
-• Embedded C and system-level programming  
-• FPGA + ARM SoC development (PYNQ-Z2 platform)  
+• Python and backend system development  
+• Embedded systems & IoT (ESP32, sensors, cloud integration)  
+• Computer vision and real-time processing  
 • Hardware–software integration and debugging  
-• Building real-world attendance and identity systems  
 
 📌 Featured Projects
-• Smart Biometric Attendance System (ESP32 + Cloud Logging)  
-• CNN-based Face Attendance System on PYNQ-Z2  
-• Embedded system architecture experiments  
+• Smart Biometric Attendance System (ESP32 + Firebase + Cloud Logging)  
+• Face Recognition Attendance System (OpenCV + FaceNet + Edge Deployment)  
+• AI Career Intelligence Engine (FastAPI + NLP + GitHub Analysis)  
 
 🧠 Engineering Interests
-Protecting reliability in embedded systems, optimizing hardware–software partitioning, and designing systems that work under real-world constraints.
+Designing systems that work under real-world constraints — combining software, hardware, and intelligent logic to solve practical problems.
 
 📫 Contact
-gopigopikrishnand@gmail.com
-LinkedIn: https://www.linkedin.com/in/gop-i-k
+gopigopikrishnand@gmail.com  
+LinkedIn: https://www.linkedin.com/in/gop-i-krishnan
