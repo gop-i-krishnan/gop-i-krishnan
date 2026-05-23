@@ -1,41 +1,42 @@
 # Hi 👋 I’m Gopi
 
-Electronics & Communication Engineering student interested in building real-world intelligent systems!
+Electronics & Communication Engineering student exploring AI-assisted product building, intelligent systems, and real-world technology workflows.
 
-👋🏻 All about me is at [My Website](https://gopikrishnan-personal-portfolio.vercel.app/)
-
----
-
-## 🚀 Current Focus
-
-- Intelligent products and system building
-- Python backend & workflow automation
-- Embedded systems & IoT (ESP32, Firebase, cloud integration)
-- Computer vision & real-time processing
-- Exploring scalable real-world platforms and dashboards
+All about me is at [My Website](https://gopikrishnan-personal-portfolio.vercel.app/)
 
 ---
 
-## 🧠 Engineering Interests
+## Current Focus
 
-I enjoy building structured systems that combine:
-- software
-- automation
-- AI tools
-- visual workflows
-- and real-world usability
-
-Focused on creating products that solve practical problems with intelligent and scalable design.
+* Building real-world systems and management platforms
+* AI-assisted web/product development
+* Workflow automation and structured digital systems
+* Embedded systems & IoT (ESP32, Firebase, cloud integration)
+* Exploring computer vision, dashboards, and scalable platforms
 
 ---
 
-## 🛠 Tech Stack
+## Interests
 
-Python • FastAPI • PostgreSQL • OpenCV • ESP32 • Firebase • Git/GitHub • TensorFlow • APIs
+I enjoy creating structured systems that combine:
+
+* technology
+* automation
+* visual workflows
+* AI tools
+* and practical usability
+
+Interested in building products that solve real-world problems through intelligent and scalable design.
 
 ---
 
-## 📫 Connect With Me
+## 🛠 Currently Exploring
 
-📧 [Email](mailto:gopigopikrishnand@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/gop-i-krishnan)
+Python • FastAPI • Git/GitHub • OpenCV • ESP32 • Firebase • APIs • Product/System Design
+
+---
+
+## Connect With Me
+
+Email: [gopigopikrishnand@gmail.com](mailto:gopigopikrishnand@gmail.com)
+LinkedIn: https://www.linkedin.com/in/gop-i-krishnan
