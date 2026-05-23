@@ -1,6 +1,6 @@
 # Hi 👋 I’m Gopi
 
-Electronics & Communication Engineering student exploring AI-assisted product building, intelligent systems, and real-world technology workflows.
+Electronics & Communication Engineering student with minor in Computer Science exploring AI-assisted product building, intelligent systems, and real-world technology workflows.
 
 All about me is at [My Website](https://gopikrishnan-personal-portfolio.vercel.app/)
 
@@ -30,7 +30,7 @@ Interested in building products that solve real-world problems through intellige
 
 ---
 
-## 🛠 Currently Exploring
+## Currently Exploring
 
 Python • FastAPI • Git/GitHub • OpenCV • ESP32 • Firebase • APIs • Product/System Design
 
