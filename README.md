@@ -37,5 +37,5 @@ Python • FastAPI • PostgreSQL • OpenCV • ESP32 • Firebase • Git/GitH
 
 ## 📫 Connect With Me
 
-📧 Email: gopigopikrishnand@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/gop-i-krishnan
+📧 [Email](gopigopikrishnand@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/gop-i-krishnan)
