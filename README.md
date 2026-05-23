@@ -1,6 +1,6 @@
 # Hi 👋 I’m Gopi
 
-Electronics & Communication Engineering student focused on building real-world intelligent systems, AI-assisted products, and practical software solutions.
+Electronics & Communication Engineering student interested in building real-world intelligent systems!
 
 👋🏻 All about me is at [My Website](https://gopikrishnan-personal-portfolio.vercel.app/)
 
@@ -12,7 +12,7 @@ Electronics & Communication Engineering student focused on building real-world i
 - Python backend & workflow automation
 - Embedded systems & IoT (ESP32, Firebase, cloud integration)
 - Computer vision & real-time processing
-- Building scalable real-world platforms and dashboards
+- Exploring scalable real-world platforms and dashboards
 
 ---
 
@@ -37,5 +37,5 @@ Python • FastAPI • PostgreSQL • OpenCV • ESP32 • Firebase • Git/GitH
 
 ## 📫 Connect With Me
 
-📧 [Email](gopigopikrishnand@gmail.com)  
+📧 [Email](mailto:gopigopikrishnand@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/gop-i-krishnan)
