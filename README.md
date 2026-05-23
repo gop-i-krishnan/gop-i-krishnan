@@ -1,4 +1,4 @@
-# Hi 👋 I’m Gopi
+Hi I’m [Gopi](https://gopikrishnan-personal-portfolio.vercel.app/)
 
 Electronics & Communication Engineering student with minor in Computer Science exploring AI-assisted product building, intelligent systems, and real-world technology workflows.
 
